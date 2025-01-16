@@ -8,6 +8,7 @@
 <ul>
   <li><a href="#" target="_blank">Lost</a></li>
   <li><a href="#" target="_blank">Parallel</a></li>
+  <li><a href="#" target="_blank">Echos Of Fate</a></li>
 </ul>
 <br>
-<p>Thank you for taking a look my page and come back for more updates as my BIGGEST PROJECT YET is under developement and will be shared here in the near future.</p>
+<p>Thank you for taking a look at my page and come back for more updates as I've started to develope my biggest project yet. Will show updates as me and my team continue to work on it.</p>
