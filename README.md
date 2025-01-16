@@ -11,4 +11,6 @@
   <li><a href="#" target="_blank">Echos Of Fate</a></li>
 </ul>
 <br>
+<p>Through these games, I worked on the programming of the games as well as alot of the desgin aspects of the game. I built the maps for Parallel and Echos Of Fate after I finished the base mechanics. These games were very ambious and challenging to do in 3-4 month periods. The end results are something I am very happy with.</p>
+<br>
 <p>Thank you for taking a look at my page and come back for more updates as I've started to develope my biggest project yet. Will show updates as me and my team continue to work on it.</p>
