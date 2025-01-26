@@ -6,11 +6,11 @@
 <br>
 <p>Here are some games I have been involved with making:</p>
 <ul>
-  <li><a href="#" target="_blank">Lost</a></li>
+  <li><a href="https://www.youtube.com/watch?v=cHI9iKC531M" target="_blank">Lost</a></li>
   
   <p>Lost was my first gaming project with a team of three people working together. It is a walking simulator and horror game. I and one of the other teammates worked on the visuals. The teammate worked on the maps mostly as did I, but I also worked on the post processing and the placement of the jumpscares and audio queues.</p>
   
-  <li><a href="#" target="_blank">Parallel</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3zzviHXsShw" target="_blank">Parallel</a></li>
 
 <p>Parallel is a non euclidian inspired puzzle game that really challenges the players brain. The use of the world being drained of color and only being able to see in black and white helps players see find
 and see how to do puzzles when you can see certain colors. All puzzles will be based on the colors you have found allowing you to figure out which piece goes with what puzzle. I was the head game designer on the project. I did all the map design and stylistic look of the game as well. Me and the team worked together to develope and design the puzzles and to come up with the code to get everything to work together. </p>
