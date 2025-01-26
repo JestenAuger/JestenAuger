@@ -1,7 +1,7 @@
-<h1>Hi, I'm Jesten! I also go by Jesse</h1>
+<h1>Hello, I'm Jesten! I also go by Jesse</h1>
 
 <br>
-<p>I'm a student developper/level desginer studying video game programming with a passion for creating amazing games using C#, C++, Unity and Unreal Engine 5.</p>
+<p>I'm a student developper/level desginer studying video game programming with a passion for creating amazing games! Over the last 3 years I've been learning how use C# and Unity together, as well as blueprints and Unreal Engine 5.</p>
 <p>This page is where i will be sharing various projects that I work on both in the video game space as well as other programming related work.</p>
 <br>
 <p>Here are some games I have been involved with making:</p>
@@ -15,12 +15,16 @@
 
 <p>Parallel is a non euclidian inspired puzzle game that really challenges the players brain. The use of the world being drained of color and only being able to see in black and white helps players see find
 and see how to do puzzles when you can see certain colors. All puzzles will be based on the colors you have found allowing you to figure out which piece goes with what puzzle. I was the head game designer on the project. I did all the map design and stylistic look of the game as well. Me and the team worked together to develope and design the puzzles and to come up with the code to get everything to work together. </p>
+<br>
+<p>My role in making the game: I was the head level and game designer of the team. I made sure the game had a interesting and captavating look to grab the players attention while being able to still focus on the puzzles. I also worked with the portal systems in the game and the puzzle desgins.</p>
   
   <li><a href="#" target="_blank">Echos Of Fate (Click to see gameplay)</a></li>
 
 <p>Echos of Fate was my latest project, again done in a team, that was a souls like combat game. The game gives you multiple maps have enemies to battle all leading up to a challenging boss fight that really
 test your skills in the game. This game was a lot more in depth then we originally planned. I coded the base set of the game, so the health system, the combat system and getting them to work togehter. I then shifted over to main game/level designer again and designed 4 levels. This is entire set up was done in less than 3 months and would have loved to work on it longer to see where it went.
 </p>
+<br>
+<p>My role in making the game: My main role was again level and game design on this project. I loved working on all the levels and bringing them to life. I also worked on the base combat and health system of the game to set everything up before the others add more and polished it out.</p>
   
 </ul>
 <br>
