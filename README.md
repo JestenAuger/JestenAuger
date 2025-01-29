@@ -10,6 +10,8 @@
   <li><a href="https://www.youtube.com/watch?v=cHI9iKC531M" target="_blank">Lost (Click to see gameplay)</a></li>
   
   <p>Lost was my first gaming project with a team of three people working together. It is a walking simulator and horror game. I and one of the other teammates worked on the visuals. The teammate worked on the maps mostly as did I, but I also worked on the post processing and the placement of the jumpscares and audio queues.</p>
+
+  <p>My role in making the game: I was the main game designer and worked on the jumpscares and movement of the game.</p>
   
   <li><a href="https://www.youtube.com/watch?v=3zzviHXsShw" target="_blank">Parallel (Click to see gameplay)</a></li>
 
@@ -18,7 +20,7 @@ and see how to do puzzles when you can see certain colors. All puzzles will be b
 <br>
 <p>My role in making the game: I was the head level and game designer of the team. I made sure the game had a interesting and captavating look to grab the players attention while being able to still focus on the puzzles. I also worked with the portal systems in the game and the puzzle desgins.</p>
   
-  <li><a href="#" target="_blank">Echos Of Fate (Click to see gameplay)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=t33xsMP0SOs&t=1032s" target="_blank">Echos Of Fate (Click to see gameplay)</a></li>
 
 <p>Echos of Fate was my latest project, again done in a team, that was a souls like combat game. The game gives you multiple maps have enemies to battle all leading up to a challenging boss fight that really
 test your skills in the game. This game was a lot more in depth then we originally planned. I coded the base set of the game, so the health system, the combat system and getting them to work togehter. I then shifted over to main game/level designer again and designed 4 levels. This is entire set up was done in less than 3 months and would have loved to work on it longer to see where it went.
